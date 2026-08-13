@@ -1,48 +1,125 @@
-# Hi, I'm Yunquan Fu 👋
+# Hi, I'm Yunquan Fu
 
-🎓 Computer Science Student at Beijing University of Posts and Telecommunications
+Computer Science Undergraduate at Beijing University of Posts and Telecommunications
 
-💻 Backend Developer | Java Engineer
+Backend Developer | Java | Spring Boot | AI Agent
 
-🚀 Currently exploring:
-- Distributed Systems
-- Spring Boot Backend Development
-- AI Agent Systems
+I am interested in backend engineering, distributed systems, and AI-powered software applications.
 
+Currently focusing on building reliable backend systems and exploring LLM Agent development.
 
-## 🛠 Tech Stack
+---
+
+## Featured Projects
+
+### DevAgent — LLM-powered Coding Assistant
+
+An AI coding assistant based on large language models, designed to help developers understand, analyze and modify software projects.
+
+Highlights:
+
+- LLM-based reasoning workflow
+- Agent loop and tool interaction
+- Code understanding and generation
+- Multi-turn conversation management
+- Project-level code analysis
+
+Tech Stack:
+
+`Python` `LLM API` `Agent Architecture` `Prompt Engineering`
+
+Repository:
+[DevAgent](your-link)
+
+---
+
+### ChargePilot — Smart Charging Management System
+
+A charging station management platform based on Spring Boot.
+
+Features:
+
+- User authentication and authorization
+- Charging request management
+- Intelligent scheduling algorithm
+- Queue management
+- Billing system
+
+Tech Stack:
+
+`Java` `Spring Boot` `MyBatis-Plus` `MySQL` `Redis`
+
+Repository:
+[ChargePilot](your-link)
+
+---
+
+### Tourism Recommendation System
+
+A personalized tourism recommendation platform.
+
+Features:
+
+- User preference modeling
+- Personalized recommendation
+- Redis caching
+- Security authentication
+
+Tech Stack:
+
+`Java` `Spring Boot` `JPA` `Redis` `MySQL`
+
+Repository:
+[Tourism Recommendation System](your-link)
+
+---
+
+## Technical Skills
 
 ### Languages
-- Java
-- Python
-- C++
+
+Java  
+Python  
+C
 
 ### Backend
-- Spring Boot
-- MySQL
-- Redis
-- MyBatis
 
+Spring Boot  
+Spring Security  
+MySQL  
+Redis  
+MyBatis-Plus
 
-## 🚀 Projects
+### AI / LLM
 
-### 🤖 AI Agent System
-Building LLM-powered intelligent agents.
+LLM Application Development  
+Agent Architecture  
+Prompt Engineering
 
-### 🚗 ChargePilot
-A charging station scheduling system based on Spring Boot.
+### Tools
 
-### 🌏 Tourism Recommendation System
-A personalized recommendation platform.
+Git  
+Docker  
+Linux  
+Maven
 
+---
 
-## 📚 Currently Learning
+## Currently Learning
 
-- JVM
-- Distributed System
-- Large Language Model Agent
+- AI Agent Architecture
+- Large Language Model Applications
+- Distributed Systems
+- System Design
 
+---
 
-## 📫 Contact
+## GitHub Stats
 
-GitHub: https://github.com/Fu1222
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+---
+
+## Contact
+
+Email: 2182681060@qq.cpm
